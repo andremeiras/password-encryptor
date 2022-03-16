@@ -1,6 +1,6 @@
 package com.andresantos.passwordencryptor.controller;
 
-import com.andresantos.passwordencryptor.UserModel;
+import com.andresantos.passwordencryptor.model.UserModel;
 import com.andresantos.passwordencryptor.repository.UserRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

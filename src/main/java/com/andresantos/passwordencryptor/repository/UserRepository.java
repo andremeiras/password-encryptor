@@ -1,6 +1,6 @@
 package com.andresantos.passwordencryptor.repository;
 
-import com.andresantos.passwordencryptor.UserModel;
+import com.andresantos.passwordencryptor.model.UserModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
